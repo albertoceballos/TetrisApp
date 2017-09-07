@@ -77,6 +77,14 @@ public class Creature extends Entity{
         
     }
 	
+	public void changeOrientation(){
+		//Implement change in animation
+	}
+	
+	public void getInput(){
+		
+	}
+	
 	public float getxMove() {
 		return xMove;
 	}
